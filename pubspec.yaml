@@ -2,7 +2,7 @@ name: wakelock_fixed
 description: >2-
   Fixed version of wakelock plugin that allows you to keep the device screen awake, i.e. prevent the screen from sleeping on
   Android, iOS, macOS, Windows, and web.
-version: 0.6.2
+version: 0.6.3
 repository: https://github.com/boughdiri-dorsaf/wakelock_fixed
 
 environment:

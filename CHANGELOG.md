@@ -1,3 +1,10 @@
+## 0.6.3
+
+* Updated README with modern design and enhanced documentation
+* Improved package branding and visual presentation
+* Added comprehensive usage examples and best practices
+* Enhanced documentation structure with better organization
+
 ## 0.6.2
 
 * Fixed Android build issues.
