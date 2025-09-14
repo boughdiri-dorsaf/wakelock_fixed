@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wakelock_fixed/wakelock.dart';
+import 'package:wakelock_fixed/wakelock_fixed.dart';
 
 void main() {
   runApp(WakelockExampleApp());

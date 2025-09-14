@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:integration_test/integration_test.dart';
-import 'package:wakelock_fixed/wakelock.dart';
+import 'package:wakelock_fixed/wakelock_fixed.dart';
 
 void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();

@@ -32,7 +32,7 @@ If you want to enable the wakelock, i.e. keep the device awake, you can simply c
 and to disable it again, you can use [`Wakelock.disable`](https://pub.dev/documentation/wakelock_fixed/latest/wakelock_fixed/Wakelock/disable.html):
 
 ```dart
-import 'package:wakelock_fixed/wakelock.dart';
+import 'package:wakelock_fixed/wakelock_fixed.dart';
 // ...
 
 // The following line will enable the Android and iOS wakelock.
@@ -47,7 +47,7 @@ to enable or disable the wakelock and also retrieve the current wakelock status 
 [`Wakelock.isEnabled`](https://pub.dev/documentation/wakelock/latest/wakelock/Wakelock/isEnabled.html):
 
 ```dart
-import 'package:wakelock_fixed/wakelock.dart';
+import 'package:wakelock_fixed/wakelock_fixed.dart';
 // ...
 
 // The following lines of code toggle the wakelock based on a bool value.
